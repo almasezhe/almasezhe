@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%238fce00&size=28&center=true&lines=MadiChort;Next.js;TypeScript;C#;Python"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%238fce00&size=28&center=true&lines=MadiChort;Next.js;TypeScript;C sharp;Python"/>
 </p>
 
 <p>Looking for freelance/part-time job/internships</p>
