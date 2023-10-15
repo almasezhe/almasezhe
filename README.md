@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=almasezhe&label=Visitors&color=000000&style=flat" alt="almasezhe" /> </p>
-
 <h1 align="center">Heeey 👋, I'm Almas</h1>
 
 
