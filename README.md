@@ -2,13 +2,13 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%238fce00&size=28&center=true&lines=MadiChort;Next.js;TypeScript;Angular;SpringBoot;Prisma;ReactJs"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%238fce00&size=28&center=true&lines=Next.js;TypeScript;Angular;SpringBoot;Prisma;ReactJs"/>
 </p>
 
 <p>Looking for freelance/part-time job/internships</p>
 
 <p>
-16 y.o
+17 y.o
   I study at NIS school in Taldykorgan at 11th grade,mainly use NextJS and Prisma for creating sites.Right now im focused on projects that will help our school!
 </p>
 
@@ -31,7 +31,7 @@
   
 <h3>Contact me</h3>
 
-Telegram: @almasehze  
+Telegram: @almasezhe  
 Email: assetalmas07@gmail.com    
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almasezhe" alt="almasezhe" /></a> </p>
