@@ -33,13 +33,3 @@
 
 Telegram: @almasezhe  
 Email: assetalmas07@gmail.com    
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almasezhe" alt="almasezhe" /></a> </p>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=almasezhe&" alt="almasezhe" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=almasezhe&show_icons=true&locale=en" alt="almasezhe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=almasezhe&show_icons=true&theme=merko&locale=en&layout=compact" alt="almasezhe" /></p>
-
-
