@@ -5,10 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%238fce00&size=28&center=true&lines=Next.js;TypeScript;Angular;SpringBoot;Prisma;ReactJs"/>
 </p>
 
-<p>Looking for freelance/part-time job/internships</p>
-
 <p>
-17 y.o
+18 y.o
   I study at NIS school in Taldykorgan at 12th grade,mainly use NextJS and Prisma for creating sites.Right now im focused on projects that will help our school!
 </p>
 
