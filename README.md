@@ -7,7 +7,6 @@
 
 <p>
 18 y.o
-  I study at NIS school in Taldykorgan at 12th grade,mainly use NextJS and Prisma for creating sites.Right now im focused on projects that will help our school!
 </p>
 
 
